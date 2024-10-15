@@ -8,7 +8,7 @@ This tool allows you to create portable Python environments that can be easily d
 ## Getting Started
 
 1. Download the Python Portable Project Creator:
-   - Download the latest release from [Releases](https://github.com/your-repo/releases)
+   - Download the latest release from [Releases](https://github.com/daswer123/portable-maker/releases)
 
 2. Extract the downloaded archive to your desired location.
 

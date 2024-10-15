@@ -8,7 +8,7 @@
 ## Начало работы
 
 1. Скачайте Создатель портативных Python-проектов:
-   - Загрузите последнюю версию из [Releases](https://github.com/your-repo/releases)
+   - Загрузите последнюю версию из [Releases](https://github.com/daswer123/portable-maker/releases)
 
 2. Распакуйте скачанный архив в желаемое место.
 
