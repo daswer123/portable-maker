@@ -1,6 +1,6 @@
 # Создатель портативных Python-проектов
 
-![English](https://img.shields.io/badge/Language-English-blue.svg) (README.md)
+![English](https://img.shields.io/badge/Language-English-blue.svg)
 [![Russian](https://img.shields.io/badge/Language-Russian-red.svg)](README_RU.md)
 
 Этот инструмент позволяет создавать портативные Python сборки , которые можно легко распространять в виде архивов. Он упрощает процесс настройки и обмена Python-проектами с минимальной конфигурацией.

@@ -1,6 +1,6 @@
 # Python Portable Project Creator
 
-![English](https://img.shields.io/badge/Language-English-blue.svg) (README.md)
+![English](https://img.shields.io/badge/Language-English-blue.svg)
 [![Russian](https://img.shields.io/badge/Language-Russian-red.svg)](README_RU.md)
 
 This tool allows you to create portable Python environments that can be easily distributed as archives. It streamlines the process of setting up and sharing Python projects with minimal configuration.
