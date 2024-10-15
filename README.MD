@@ -1,6 +1,6 @@
 # Python Portable Project Creator
 
-![English](https://img.shields.io/badge/Language-English-blue.svg)
+![English](https://img.shields.io/badge/Language-English-blue.svg) (README.md)
 [![Russian](https://img.shields.io/badge/Language-Russian-red.svg)](README_RU.md)
 
 This tool allows you to create portable Python environments that can be easily distributed as archives. It streamlines the process of setting up and sharing Python projects with minimal configuration.
@@ -9,7 +9,6 @@ This tool allows you to create portable Python environments that can be easily d
 
 1. Download the Python Portable Project Creator:
    - Download the latest release from [Releases](https://github.com/your-repo/releases)
-   - Or use this direct link: [Download Python Portable Project Creator](https://link-to-your-download.zip)
 
 2. Extract the downloaded archive to your desired location.
 

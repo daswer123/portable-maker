@@ -1,6 +1,6 @@
 # Создатель портативных Python-проектов
 
-![English](https://img.shields.io/badge/Language-English-blue.svg)
+![English](https://img.shields.io/badge/Language-English-blue.svg) (README.md)
 [![Russian](https://img.shields.io/badge/Language-Russian-red.svg)](README_RU.md)
 
 Этот инструмент позволяет создавать портативные Python сборки , которые можно легко распространять в виде архивов. Он упрощает процесс настройки и обмена Python-проектами с минимальной конфигурацией.
@@ -9,7 +9,6 @@
 
 1. Скачайте Создатель портативных Python-проектов:
    - Загрузите последнюю версию из [Releases](https://github.com/your-repo/releases)
-   - Или используйте прямую ссылку: [Скачать Создатель портативных Python-проектов](https://link-to-your-download.zip)
 
 2. Распакуйте скачанный архив в желаемое место.
 
