@@ -6,3 +6,4 @@
 
 system-folder.zip
 *.zip
+/pip

@@ -48,7 +48,7 @@ set GIT=%GIT_PATH%\cmd\git.exe
 
 :: PATH environment variable
 :: Adds necessary directories to the system PATH
-set PATH=%PYTHON_PATH%;%GIT_PATH%\cmd;%GIT_PATH%\mingw64\bin;%GIT_PATH%\usr\bin;%FFMPEG_PATH%;%FFMPEG_PATH%\bin;%PATH%;%SYSTEM_DIR%\bin;
+set PATH=%PYTHON_PATH%;%PIP_PATH%;%GIT_PATH%\cmd;%GIT_PATH%\mingw64\bin;%GIT_PATH%\usr\bin;%FFMPEG_PATH%;%FFMPEG_PATH%\bin;%PATH%;%SYSTEM_DIR%\bin;
 
 :: Additional settings
 :: CUDA module loading configuration
@@ -56,3 +56,6 @@ set CUDA_MODULE_LOADING=LAZY
 
 :: You can add more custom variables and settings below this line
 :: Example: set MY_CUSTOM_VAR=value
+
+:: Alias
+doskey pip=python -m pip $*
