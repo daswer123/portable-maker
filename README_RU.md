@@ -60,8 +60,10 @@ project-root/
 4. Установите зависимости:
    В активированном окружении выполните:
    ```
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
+
+   **Примечание** Всегда используйте `python -m pip` а не `pip` 
 
 5. Настройте `run.bat`:
    Укажите ваш основной Python-файл и любые аргументы командной строки.

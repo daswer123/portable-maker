@@ -60,8 +60,10 @@ project-root/
 4. Install dependencies:
    In the activated environment, run:
    ```
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
+
+   **Note** Always use `python -m pip`
 
 5. Configure `run.bat`:
    Specify your main Python file and any command-line arguments.
