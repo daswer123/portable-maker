@@ -22,7 +22,7 @@ if /i "%CLEAR_TEMP_EVERY_RUN%"=="true" (
     echo Temporary files cleaned.
 )
 
-:: Change to the project directory
+:: Move to Project Directory
 cd %APP_FOLDER%
 
 :: Run the main application

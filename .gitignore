@@ -3,7 +3,10 @@
 /system/tmp
 /system/user
 /system/ffmpeg
+/system/hf
 
 system-folder.zip
 *.zip
 /pip
+Demo copy.MD
+/system/pytemp

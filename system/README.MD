@@ -1,6 +1,17 @@
 # How to Change Python Version
 
-If you want to change the Python version used in the project, follow these steps:
+There are two methods to change the Python version used in the project: automatic and manual.
+
+## Automatic Method
+
+1. Run the `reinstall_python.bat` file located in the project root directory.
+2. Follow the on-screen instructions to select and install the desired Python version.
+
+This method will automatically handle the download, extraction, and setup of the new Python version.
+
+## Manual Method
+
+If you prefer to change the Python version manually, follow these steps:
 
 1. Delete all contents of the `python` folder in the `system` directory.
 
@@ -26,3 +37,5 @@ If you want to change the Python version used in the project, follow these steps
 4. Once completed, the project will use the new Python version.
 
 Note: Ensure that the chosen Python version is compatible with your project's dependencies.
+
+Regardless of the method you choose, changing the Python version will reset the environment to a clean state, similar to deleting and recreating a virtual environment. This means all previously installed dependencies will be removed.

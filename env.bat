@@ -9,7 +9,7 @@ set SYSTEM_DIR=%~dp0system
 set TMP_DIR=%~dp0tmp
 
 :: Project-specific settings (modify as needed)
-set APP_FOLDER=book_translate
+set APP_FOLDER=test_project
 set REPO_URL=https://github.com/your-repo-url.git
 set CUSTOM_HASH_OR_BRANCH=
 
@@ -28,12 +28,13 @@ set GIT_SSH_COMMAND=ssh -i "%GITHUB_SSH_PATH%"
 :: These redirect temp files to a local folder to avoid cluttering the system
 set TEMP=%TMP_DIR%
 set TMP=%TMP_DIR%
-set TRANSFORMERS_CACHE=%TMP_DIR%
 
 :: User profile settings
 :: These prevent modifications to the actual user profile
 set appdata=%SYSTEM_DIR%\user
 set userprofile=%SYSTEM_DIR%\user
+set TRANSFORMERS_CACHE=%SYSTEM_DIR%\hf
+set HF_HOME=%SYSTEM_DIR%\hf
 
 :: Path configurations
 :: Sets up paths for Python, Git, FFmpeg, and CUDA

@@ -20,5 +20,8 @@ echo To deactivate, close this terminal and open a new one.
 :: Modify the prompt for visual indication of activation
 set PROMPT=[%APP_FOLDER%] $P$G
 
+:: Move to Project Folder
+cd %APP_FOLDER%
+
 :: Wait for command input in interactive mode
 cmd /K
