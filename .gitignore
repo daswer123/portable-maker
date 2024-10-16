@@ -10,3 +10,5 @@ system-folder.zip
 /pip
 Demo copy.MD
 /system/pytemp
+/build
+builder.py

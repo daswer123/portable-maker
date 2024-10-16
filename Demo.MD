@@ -63,6 +63,9 @@ Double-click `activate.bat` or run it through your code editor. If successful, y
    ```
    cd %APP_FOLDER%
    ```
+
+**UPD** As of version 1.0.1, the transition is already included in the activation file
+
 2. Install the required dependencies:
    ```
    pip install -r requirements.txt

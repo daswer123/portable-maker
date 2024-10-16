@@ -62,6 +62,8 @@ set REPO_URL=https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu
    ```
    cd %APP_FOLDER%
    ```
+**UPD** С версии 1.0.1 переход уже включен в файл активации
+
 2. Установите необходимые зависимости:
    ```
    pip install -r requirements.txt
